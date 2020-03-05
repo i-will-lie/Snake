@@ -7,3 +7,6 @@ Collect Apples [@] by moving the Snake [X] with arrow keys.
 Can move into walls and exit from opposite wall.
 
 Lose if Snake [X] collide with any part of its Tail [O].
+
+Compile: gcc -o snakeGame snakeGame.c -lncurses
+Run: ./snakeGame
